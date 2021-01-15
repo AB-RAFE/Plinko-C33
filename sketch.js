@@ -114,8 +114,8 @@ function draw() {
 
   if( count>=5 ) {
     gameState = "end";
-    textSize(50)
-    text("GAME OVER",250,340);
+//     textSize(50)
+//     text("GAME OVER",250,340);
   }
 }
 
